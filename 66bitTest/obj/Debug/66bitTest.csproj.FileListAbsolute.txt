@@ -1,0 +1,6 @@
+c:\users\penguincomp\documents\visual studio 2017\Projects\66bitTest\66bitTest\bin\Debug\66bitTest.exe.config
+c:\users\penguincomp\documents\visual studio 2017\Projects\66bitTest\66bitTest\bin\Debug\66bitTest.exe
+c:\users\penguincomp\documents\visual studio 2017\Projects\66bitTest\66bitTest\bin\Debug\66bitTest.pdb
+c:\users\penguincomp\documents\visual studio 2017\Projects\66bitTest\66bitTest\obj\Debug\66bitTest.csprojResolveAssemblyReference.cache
+c:\users\penguincomp\documents\visual studio 2017\Projects\66bitTest\66bitTest\obj\Debug\66bitTest.exe
+c:\users\penguincomp\documents\visual studio 2017\Projects\66bitTest\66bitTest\obj\Debug\66bitTest.pdb
